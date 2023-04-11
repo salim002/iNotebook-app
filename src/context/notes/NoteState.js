@@ -13,7 +13,7 @@ const NoteState = (props)=>{
         "__v": 0
       },
       {
-        "_id": "64357a18560424130fd6dfd2",
+        "_id": "64357a18560424130fd6dfdd2",
         "user": "643022068ec37d1003a16ecd",
         "title": "New note-2",
         "description": "REMAINDER: Please access the playlist",
@@ -22,7 +22,7 @@ const NoteState = (props)=>{
         "__v": 0
       },
       {
-        "_id": "64357a18560424130fd6dfd2",
+        "_id": "64357a185604241fg30fd6dfd2",
         "user": "643022068ec37d1003a16ecd",
         "title": "New note-2",
         "description": "REMAINDER: Please access the playlist",
@@ -31,7 +31,7 @@ const NoteState = (props)=>{
         "__v": 0
       },
       {
-        "_id": "64313e35a45873578ee2930e",
+        "_id": "64313e35a4587gh3578ee2930e",
         "user": "643022068ec37d1003a16ecd",
         "title": "New note",
         "description": "Please access the playlist",
@@ -40,7 +40,7 @@ const NoteState = (props)=>{
         "__v": 0
       },
       {
-        "_id": "64357a18560424130fd6dfd2",
+        "_id": "64357a1856042ef4130fd6dfd2",
         "user": "643022068ec37d1003a16ecd",
         "title": "New note-2",
         "description": "REMAINDER: Please access the playlist",
@@ -49,7 +49,7 @@ const NoteState = (props)=>{
         "__v": 0
       },
       {
-        "_id": "64357a18560424130fd6dfd2",
+        "_id": "64357a185604hb24130fd6dfd2",
         "user": "643022068ec37d1003a16ecd",
         "title": "New note-2",
         "description": "REMAINDER: Please access the playlist",
@@ -59,7 +59,7 @@ const NoteState = (props)=>{
       }
     ]
 
-      const [notes, setNotes] = useState(notesInitial);
+    const [notes, setNotes] = useState(notesInitial);
       
 
     return(
